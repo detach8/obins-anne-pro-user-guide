@@ -1,6 +1,6 @@
 # Obins Anne Pro (v1) User Guide
 
-I was gifted this keyboard and decided to write a proper English User Guide as a contribution back to the community for the blessing. I believe many people are still using this keyboard even though it’s rather old, and the only other English user guide that exists is poorly translated from Chinese.
+I was gifted this keyboard and decided to write a proper English User Guide as a contribution back to the community for the blessing. I believe many people are still using this keyboard even though it’s rather old, and the only [other English user guide](https://service.hexcore.xyz/manual/annepro/) that exists is poorly translated from Chinese.
 
 Tested with firmware 1.40.00.
 
@@ -22,7 +22,7 @@ Once in setup mode, press the following to configure specific settings:
   * Green - BLE mode (discovered device name contains L0)
   * Yellow - Normal mode (discovered device name contains L1)
   * Takes about a second or two to switch after you press the key
-* A - Enable/disable backlight auto-sleep
+* A - Enable/disable backlight auto-sleep (new in 1.40.00)
   * Green = Auto-sleep on (backlight will switch off after 1 minute)
   * Red = Auto-sleep off (backlight will not switch off)
 
@@ -39,7 +39,7 @@ How to switch modes:
 * Release CTRL while still holding the other down
 * Tap the released CTRL key to cycle through the modes
 
-You will see the numbers 1, 2, 3, 4 light up in green indicating the layout mode
+You will see the numbers 1, 2, 3, 4 light up in green indicating the layout mode.
 
 ## FN mode lock
 
