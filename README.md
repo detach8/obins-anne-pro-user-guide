@@ -19,8 +19,8 @@ Once in setup mode, press the following to configure specific settings:
   * Green = current connected device
 * 1, 2, 3 or 4 - Quick switch to a saved profile
 * FN+0 - Switch between Bluetooth Low Energy (BLE) mode and normal mode
-  * Green - BLE mode (discovered device name contains L0)
-  * Yellow - Normal mode (discovered device name contains L1)
+  * Green - BLE mode (discovered device name contains "L0")
+  * Yellow - Normal mode (discovered device name contains "L1")
   * Takes about a second or two to switch after you press the key
 * A - Enable/disable backlight auto-sleep (new in 1.40.00)
   * Green = Auto-sleep on (backlight will switch off after 1 minute)
@@ -36,18 +36,18 @@ The keyboard has four different layouts:
 
 How to switch modes:
 * Press L CTRL + R CTRL
-* Release CTRL while still holding the other down
+* Release either one CTRL while still holding the other down
 * Tap the released CTRL key to cycle through the modes
 
-You will see the numbers 1, 2, 3, 4 light up in green indicating the layout mode.
+You will see the numbers 1, 2, 3, 4 light up in green indicating the current layout mode.
 
 ## FN mode lock
 
-To activate FN lock (i.e. in FN mode):
+To activate FN lock:
 * Press ALT+ALT
 * Press ALT+ALT again to revert to normal mode
 
-There are no visual indicators to tell if you are in FN lock mode.
+There are no visual indicators to tell if you are in FN lock.
 
 ## Backlight modes
 
